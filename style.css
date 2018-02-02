@@ -1,0 +1,80 @@
+
+
+h1{
+color : blue;
+font-size: 40px;
+
+}
+
+.redtext{
+  color : red;
+}
+
+
+h2{
+  font-size: 20px;
+  color : red;
+
+}
+h3{
+  Font-size: 30px;
+
+}
+
+h4{
+font-size: 15px;
+}
+
+h5{
+font-size: 10px;
+
+}
+h6{
+font-size: 20px;
+font-style: italic;
+
+}
+.chapter {
+Margin-top: 24em;
+margin-bottom: 3em;
+}
+.navigation .chapter{
+margin-top: 0em
+
+}
+
+.navigation {
+Position: fixed;
+top:0;
+left:0;
+bottom: 0;
+background-color: white;
+overflow-y: scroll;
+width:20%;
+padding: .1em;
+transform: translateX(-50);
+transition: 300ms;
+overflow-x: hidden;
+}
+
+.navigation:hover {
+  transform: translatex(0%);
+}
+
+body{
+margin-left: 30%
+}
+
+
+a{
+color:coral;
+
+}
+a:hover{
+background-color:coral;
+color: white;
+}
+blockquote{
+  font-size: 2rem;
+  font-family:
+}
